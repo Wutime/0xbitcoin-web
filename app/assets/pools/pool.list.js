@@ -10,15 +10,18 @@ var list =  {pools:[
    {name:"Wolf Pool" ,
     url: "http://wolfpool.io/"
    },
-   
+
    {name:"Mine0xBTC Pool" ,
     url: "http://mine0xbtc.eu/",
      image: "/app/assets/img/0xbtcpool.png"
    },
-  
 
    {name:"Tosti Pool" ,
-    url: "http://http://tosti.ro/"
+    url: "http://tosti.ro/"
+    },
+
+   {name:"Wutime Pool" ,
+    url: "http://wutime.com/"
     }
 
  ]}
